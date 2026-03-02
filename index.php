@@ -1,5 +1,4 @@
 <?php
-
 $file = 'profile.json';
 $message = '';
 $messageType = '';
