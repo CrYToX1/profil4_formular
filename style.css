@@ -1,0 +1,39 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: #333;
+    line-height: 1.6;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    color: cornflowerblue;
+}
+h2{
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+}
+button {
+    padding: 10px 20px;
+    color: cornflowerblue;
+    border-radius: 5px;
+    font-size: 12px;
+    
+    
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 300px;
+}
+ul li {
+    /*padding: 10px 15px;*/
+    margin-bottom: 10px;
+}
